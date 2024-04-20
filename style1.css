@@ -1,0 +1,64 @@
+#header{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;
+    background: #E3E6F3;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.06);
+    z-index: 999;
+    position: sticky;
+    top:0;
+    left:0;
+}
+
+h4{
+    text-align: center;
+    font-size: larger;
+   
+}
+p{
+    text-align: center;
+    font-size: larger;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  /* Set a specific color for each brand */
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    align-items: center;
+  }
+  
+  .fa-instagram {
+    background: #E4405F;
+    color: white;
+    align-items: center;
+  }
+  .fa-youtube {
+    background: #FF0000;
+    color: white;
+    align-items: center;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    align-items: center;
+  }
+  .fa-pinterest {
+    background: #BD081C;
+    color: white;
+    align-items: center;
+  }
+
+ 
